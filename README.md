@@ -1,4 +1,8 @@
-#  Olá, tudo bem? Eu sou o Eduardo ✌️
+#  Olá, tudo bem? Eu sou o Eduardo! ✌️
+
+Apaixonado por uma água geladinha e soluções simples para problemas complexos!
+
+Graduado em Engenharia Elétrica, atualmente estou na minha segunda graduação, agora em Ciências da Computação, e venho desenvolvendo novas habilidades para conquistar uma oportunidade profissional na área de desenvolvimento.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocmps)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deoli.cmps@gmail.com)
@@ -18,8 +22,9 @@
 ## Estudando no momento
 
 <div style="display: inline_block"><br/>
-    <img align="Center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="Center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="Center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="Center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div></br>
 
 
