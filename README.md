@@ -19,7 +19,6 @@
 </div></br>
 
 ## Brasileiro, engenheiro, desenvolvedor e apaixonado pela vida!
-<div class="text-justify">
- As pessoas me chamam de Dudu e sempre dizem que tenho um semblante muito sério, mas pode vir conversar que eu sou de boa. Atualmente sou estudante do curso de Ciência da Computação na UFMT e tenho utilizado meu tempo livre desenvolvendo habilidades para entrar no mercado de trabalho na área de desenvolvimento.
-</div>
+As pessoas me chamam de Dudu e sempre dizem que tenho um semblante muito sério, mas pode vir conversar que eu sou de boa. Atualmente sou estudante do curso de Ciência da Computação na UFMT e tenho utilizado meu tempo livre aprendendo novas habilidades para entrar no mercado de trabalho na área de desenvolvimento.
+
  
