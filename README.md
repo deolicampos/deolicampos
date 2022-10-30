@@ -1,8 +1,7 @@
-#  Olá, Mundo! Eu sou o Eduardo ✌️
+#  Olá, tudo bem? Eu sou o Eduardo ✌️
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocmps)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deoli.cmps@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5565992654664?text=Ol%C3%A1%2C+Eduardo%21+Vim+atrav%C3%A9s+do+seu+perfil+no+GitHub.+)
 
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=deolicampos&show_icons=true&theme=onedark)
@@ -18,7 +17,6 @@
     <img align="Center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
 
-## Brasileiro, engenheiro, desenvolvedor e apaixonado pela vida!
-As pessoas me chamam de Dudu e sempre dizem que tenho um semblante muito sério, mas pode vir conversar que eu sou de boa. Atualmente sou estudante do curso de Ciência da Computação na UFMT e tenho utilizado meu tempo livre aprendendo novas habilidades para entrar no mercado de trabalho na área de desenvolvimento.
+
 
  
