@@ -22,9 +22,7 @@ Graduado em Engenharia Elétrica, atualmente estou na minha segunda graduação,
 ## Estudando no momento
 
 <div style="display: inline_block"><br/>
-    <img align="Center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="Center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="Center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div></br>
 
 
