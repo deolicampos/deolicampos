@@ -2,7 +2,7 @@
 
 Apaixonado por uma água geladinha e soluções simples para problemas complexos!
 
-Graduado em Engenharia Elétrica, atualmente estou na minha segunda graduação, agora em Ciências da Computação, e venho desenvolvendo novas habilidades para conquistar uma oportunidade profissional na área de desenvolvimento.
+Graduado em Engenharia Elétrica, atualmente estou na minha segunda graduação, em Ciências da Computação, e venho desenvolvendo novas habilidades para conquistar uma oportunidade profissional na área de desenvolvimento.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocmps)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deoli.cmps@gmail.com)
