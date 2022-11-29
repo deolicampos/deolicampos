@@ -1,6 +1,6 @@
 #  Olá, tudo bem? Eu sou o Eduardo! ✌️
 
-Apaixonado por uma água geladinha e soluções simples para problemas complexos!
+Apaixonado por soluções simples para problemas complexos!
 
 Graduado em Engenharia Elétrica, atualmente estou na minha segunda graduação, em Ciências da Computação, e venho desenvolvendo novas habilidades para conquistar uma oportunidade profissional na área de desenvolvimento.
 
