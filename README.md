@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="left">Hey 👋 What's up?</h2>
 
-<!--
-**deolicampos/deolicampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I’m Eduardo, a Computer Science student since 2022, and I’ve been working in the IT field since 2023. Currently, I’m diving into mobile development with a focus on Kotlin, aiming to become a skilled mobile developer.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">🛠️ Skills & Tools</h2>
+
+###
+
+<ul>
+  <li><strong>Languages:</strong> Kotlin, Java, C</li>
+  <li><strong>Tools:</strong> Android Studio, VSCode, Git, Gradle</li>
+  <li><strong>Frameworks/Libraries:</strong> Spring, Compose</li>
+  <li><strong>Currently Learning:</strong> Firebase, Retrofit and Kotlin Multiplatform</li>
+</ul>
