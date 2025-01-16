@@ -14,5 +14,5 @@
   <li><strong>Languages:</strong> Kotlin, Java, C</li>
   <li><strong>Tools:</strong> Android Studio, VSCode, Git, Gradle</li>
   <li><strong>Frameworks/Libraries:</strong> Spring, Compose</li>
-  <li><strong>Currently Learning:</strong> Firebase, Retrofit and Kotlin Multiplatform</li>
+  <li><strong>Currently Learning:</strong> Firebase and C++</li>
 </ul>
